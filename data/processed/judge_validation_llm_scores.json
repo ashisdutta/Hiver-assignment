@@ -1,0 +1,107 @@
+{
+  "351927": {
+    "groundedness": 2.0,
+    "correctness_safety": 2.0,
+    "tone": 4.0,
+    "actionability": 3.0,
+    "reasoning": "The reply overstates the brand's ability to assist with repairs and asks for personal info, which is not supported by the known policy."
+  },
+  "1271549": {
+    "groundedness": 2.0,
+    "correctness_safety": 2.0,
+    "tone": 4.0,
+    "actionability": 2.0,
+    "reasoning": "Apologetic tone but incorrectly suggests handling the issue on Twitter, which misrepresents support capabilities."
+  },
+  "2500703": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 4.0,
+    "actionability": 5.0,
+    "reasoning": "The reply is factual, safe, apologetic and gives a clear next step without fabricating details."
+  },
+  "1922858": {
+    "groundedness": 5.0,
+    "correctness_safety": 4.0,
+    "tone": 5.0,
+    "actionability": 5.0,
+    "reasoning": "The reply is empathetic, asks for a private DM to share details, and gives a clear next step without fabricating info."
+  },
+  "2276476": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 4.0,
+    "reasoning": "The reply is factual, empathetic, and offers a clear next step without fabricating information."
+  },
+  "1225177": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 4.0,
+    "reasoning": "Accurate answer and friendly tone, but lacks detailed next‑step guidance."
+  },
+  "343775": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 4.0,
+    "actionability": 5.0,
+    "reasoning": "The reply is factual, safe, empathetic, and gives a clear next step without fabricating information."
+  },
+  "80560": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 5.0,
+    "reasoning": "The reply is factual, safe, empathetic, and asks for needed details to proceed."
+  },
+  "2758126": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 4.0,
+    "reasoning": "The reply is factual, safe, empathetic and asks a clear next step, though it could have directly answered the availability."
+  },
+  "1718306": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 5.0,
+    "reasoning": "The reply is factual, safe, empathetic, and gives a clear next step without fabricating details."
+  },
+  "2403990": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 5.0,
+    "reasoning": "The reply is accurate, safe, empathetic, and gives a clear next step without fabricating details."
+  },
+  "2622489": {
+    "groundedness": 4.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 4.0,
+    "reasoning": "Provides a safe, empathetic reply with a clear next step, but lacks a direct email link and could be more specific."
+  },
+  "563925": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 5.0,
+    "reasoning": "The reply is accurate, safe, empathetic, concise, and gives a clear next step."
+  },
+  "2549464": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 5.0,
+    "reasoning": "The reply is accurate, safe, polite, and offers a clear invitation for further contact."
+  },
+  "1232890": {
+    "groundedness": 5.0,
+    "correctness_safety": 5.0,
+    "tone": 5.0,
+    "actionability": 5.0,
+    "reasoning": "The reply asks for needed details without fabricating info, is safe, empathetic, professional, and gives a clear next step."
+  }
+}

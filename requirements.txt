@@ -1,0 +1,6 @@
+pandas
+pyarrow
+langdetect
+python-dotenv
+openai
+sentence-transformers

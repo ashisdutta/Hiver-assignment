@@ -1,0 +1,10 @@
+.claude
+.DS_Store
+data/.DS_Store
+data/interim/*.parquet
+.env
+.venv
+data/interim/
+.venv_old/
+src/__pycache__/
+data/twcs/
